@@ -1,0 +1,8 @@
+<application>
+  <component name="EditorSettings">
+    <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="insertQuotesForAttributeValue" value="false" />
+  </component>
+</application>
